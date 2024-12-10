@@ -23,6 +23,8 @@ This app displays venues and their available workshop dates. Users can book work
     
     sudo docker build -t sharenet-spa . 
     sudo docker run -d -p 8080:80 sharenet-spa`
+
+    after completion the frontend will be running on: http://localhost:8080/
     ```
 
 
