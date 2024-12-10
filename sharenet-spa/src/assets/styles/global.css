@@ -1,0 +1,33 @@
+/* Global Styles for the application */
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f4f4;
+}
+
+h1, h2, h3, h4 {
+  color: #1565c0;
+}
+
+.v-application {
+  background-color: #f4f4f4;
+}
+
+.v-btn {
+  transition: background-color 0.3s;
+}
+
+.v-btn:hover {
+  background-color: #0288d1;
+}
+
+/* Modify Vuetify's theme colors globally */
+.v-theme--light {
+  background-color: #fafafa;
+}
+
+/* Custom card styles */
+.v-card {
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
