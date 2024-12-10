@@ -11,6 +11,7 @@ This app displays venues and their available workshop dates. Users can book work
    ```bash
    git clone https://github.com/epo-url.git
    cd repo-name
+   cd sharenet-spa
 
 2. Build and run the frontend Docker container:
     ```bash
